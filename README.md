@@ -1,2 +1,2 @@
 # tree-traversal-example
-Example of tree traversal in javascript
+Example of tree traversal in javascript with recursive function
